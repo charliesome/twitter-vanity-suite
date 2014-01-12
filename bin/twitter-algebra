@@ -38,7 +38,7 @@
 #   charliesome.following | ~charliesome.following
 #
 #     - literally every user on twitter
-
+#
 require_relative "../lib-internal/common"
 
 class Token
